@@ -1,12 +1,13 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "Highly Skilled .NET professional with 20+ years of experience in application development using Microsoft Technologies",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Core Technologies: C#, Asp.Net Framework, Asp.Net Core, MVC, EF Core, Azure",
+    "FrontEnd: Blazor, React Js, JQuery, AJAX, HTML, JavaScript, CSS, XML, XSLT, Bootstrap",
+    "Middle Layer: Web API, GraphQL, gRPC microservices",
+    "Database: SQL Server, Postgre SQL, MySQL, CosmosDB",
+    "Testing frameworks: XUnit, NUnit, Rhino Mocks, Microsoft Fakes, Coded UI",
+    "Clean Architecture, Domain Driven Design, SOLID principles",
+    "Others: WordPress, Woocommerce, PHP, HTML, CSS, and Javascript."
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "As a senior full stack web developer, I am passionate about what I do. The work I do ranges from developing web applications from the front end to the database, debugging issues, fixing defects, and optimizing code to improve performance and maintainability."
 }
