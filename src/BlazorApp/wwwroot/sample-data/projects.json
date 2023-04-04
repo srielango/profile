@@ -1,12 +1,21 @@
 [
   {
     "title": "Online book store",
-    "description": "Online book store is an Ecommerce application developed for Mukhangal publications.",
+    "description": "Ecommerce application for selling books online.",
     "url": "https://mukhangal.com/"
   },
   {
     "title": "Online magazine",
     "description": "It is the digital version of Mukhangal magazine.",
     "url": "https://mdmlive.in/"
+  },
+  {
+    "title": "Roofstock",
+    "description": "Radically accessible real estate investing. Invest where you want, no matter where you call home",
+    "url": "https://www.roofstock.com"
+  },
+  {
+    "title": "Digital business cards",
+    "description": "Create smart business digital cards to share professional details with just one tap"
   }
 ]
