@@ -1,5 +1,5 @@
 {
-  "description": "Highly Skilled .NET professional with 20+ years of experience in application development using Microsoft Technologies",
+  "description": "Microsoft certified .NET professional with 20+ years of experience in application development using Microsoft Technologies",
   "skills": [
     "Core Technologies: C#, Asp.Net Framework, Asp.Net Core, MVC, EF Core, Azure",
     "FrontEnd: Blazor, React Js, JQuery, AJAX, HTML, JavaScript, CSS, XML, XSLT, Bootstrap",
@@ -9,5 +9,5 @@
     "Clean Architecture, Domain Driven Design, SOLID principles",
     "Others: WordPress, Woocommerce, PHP, HTML, CSS, and Javascript."
   ],
-  "detailOrQuote": "As a senior full stack web developer, I am passionate about what I do. The work I do ranges from developing web applications from the front end to the database, debugging issues, fixing defects, and optimizing code to improve performance and maintainability."
+  "detailOrQuote": "The work I do ranges from developing web applications from the front end to the database, debugging issues, fixing defects, and optimizing code to improve performance and maintainability."
 }
