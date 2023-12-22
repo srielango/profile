@@ -1,10 +1,5 @@
 [
   {
-    "title": "Online book store",
-    "description": "Ecommerce application for selling books online.",
-    "url": "https://mukhangal.com/"
-  },
-  {
     "title": "Online magazine",
     "description": "It is the digital version of Mukhangal magazine.",
     "url": "https://mdmlive.in/"
@@ -18,6 +13,11 @@
     "title": "Roofstock",
     "description": "Radically accessible real estate investing. Invest where you want, no matter where you call home",
     "url": "https://www.roofstock.com"
+  },
+  {
+    "title": "Online book store",
+    "description": "Ecommerce application for selling books online.",
+    "url": "https://mukhangal.com/"
   },
   {
     "title": "Digital business cards",

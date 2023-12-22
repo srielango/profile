@@ -1,11 +1,11 @@
 {
   "description": "Microsoft certified .NET professional with 20+ years of experience in application development using Microsoft Technologies",
   "skills": [
-    "Core Technologies: C#, Asp.Net Framework, Asp.Net Core, MVC, EF Core, Azure",
+    "Core Technologies: C#, Asp.Net Core, Azure, DevOps, Docker",
     "FrontEnd: Blazor, React Js, JQuery, AJAX, HTML, JavaScript, CSS, XML, XSLT, Bootstrap",
     "Middle Layer: Web API, GraphQL, gRPC microservices",
-    "Database: SQL Server, Postgre SQL, MySQL, CosmosDB",
-    "Testing frameworks: XUnit, NUnit, Rhino Mocks, Microsoft Fakes, Coded UI",
+    "Database: SQL Server, Postgre SQL, MySQL, MongoDB, CosmosDB",
+    "Testing frameworks: XUnit, NUnit, Microsoft Fakes, Coded UI, Apache JMeter",
     "Clean Architecture, Domain Driven Design, SOLID principles",
     "Others: WordPress, Woocommerce, PHP, HTML, CSS, and Javascript."
   ],
